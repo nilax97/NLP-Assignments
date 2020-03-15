@@ -1,4 +1,4 @@
-# NLP
+# NLP-Assignments
 Assignments for Course COL772 - Natural Language Processing at IIT Delhi
 
 ## Assignment 1
